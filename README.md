@@ -6,6 +6,22 @@ A2A is a flow matching policy that directly transforms history action distributi
   <img src="docs/source/_static/framework.png" width="80%" alt="A2A Framework">
 </p>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2602.07322">
+    <img src="https://img.shields.io/badge/arXiv-2602.07322-b31b1b.svg" alt="arXiv">
+  </a>
+  <a href="https://lorenzo-0-0.github.io/A2A_Flow_Matching/">
+    <img src="https://img.shields.io/badge/Project-Website-1E90FF.svg" alt="Project Website">
+  </a>
+</p>
+
+## Follow-up Work
+
+| Work | Link | Notes |
+|------|------|-------|
+| FLASH | [arXiv](https://arxiv.org/abs/2605.15492) | — |
+| MARS | [arXiv](https://arxiv.org/abs/2605.29766) | Implements A2A on the Galaxea ALOHA robotic arm |
+
 ## Overview
 
 A2A (Action-to-Action) uses flow matching to learn a transformation from history states to future actions, enabling efficient and robust imitation learning for robotic manipulation tasks. 
